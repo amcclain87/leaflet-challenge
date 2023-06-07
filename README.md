@@ -3,6 +3,8 @@ module 15 challenge
 
 Part 1
 
+url: https://amcclain87.github.io/leaflet-challenge/
+
 static/js/logic.js
 Javascript code to create the map and markers for the earthquake
 - createMap: creates the map for the page
